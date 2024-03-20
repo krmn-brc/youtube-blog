@@ -1,6 +1,6 @@
 ﻿namespace YoutubeBlog.Core;
 
-public class Class1
+public interface IEntity
 {
 
 }
